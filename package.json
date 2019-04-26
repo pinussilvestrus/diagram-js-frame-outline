@@ -35,7 +35,8 @@
   },
   "dependencies": {
     "min-dash": "^3.0.0",
-    "min-dom": "^3.0.0"
+    "min-dom": "^3.0.0",
+    "tiny-svg": "^2.2.1"
   },
   "peerDependencies": {
     "diagram-js": "^0.x || ^1.x || ^2.x || ^3.x"
